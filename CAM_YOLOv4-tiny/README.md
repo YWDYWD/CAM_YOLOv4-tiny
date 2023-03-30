@@ -4,6 +4,9 @@ python3.6
 
 pip install -r requirements.txt
 
+数据集即正常的YOLO使用的voc格式
+
+
  训练
 
 1, 修改model_data下的voc_classes中的类别为你的类别
